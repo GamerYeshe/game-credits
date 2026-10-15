@@ -1,0 +1,55 @@
+# Third-party asset credits
+
+Thank you to the artists who made these resources available. Credits are included voluntarily for CC0 assets as well as where attribution is required.
+
+This list covers assets included in the current development project, including character evaluation assets. Individual videos may show only some of them. Credits for older videos should also name any assets visible there that have since been replaced.
+
+## Wallet — Vijay Verma / 3dicons
+
+- Source: [Wallet on 3dicons](https://3dicons.co/icons/7d956f-wallet?angle=dynamic).
+- Licence: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+- Changes: cards and dense stitch meshes removed; body and strap simplified and thinned; new press studs, panel UVs and a colour atlas with measured stitches; rescaled and given a project material for the game.
+
+## Cash Stack — J-Toastie, via Poly Pizza
+
+- Source and licence listing: [Cash Stack by J-Toastie](https://poly.pizza/m/aLp0P2nXJ2).
+- Licence: [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/), identified by the licence link and model metadata on the source page.
+- Changes: rescaled for the game and rendered with project lighting/materials; original model geometry retained.
+- Credit: Cash Stack by J-Toastie [CC BY 3.0] via Poly Pizza.
+
+## Furniture Bits — Kay Lousberg / KayKit
+
+- Source: [KayKit Furniture Bits](https://kaylousberg.itch.io/furniture-bits).
+- Licence: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+- Changes: scaled to the game's furniture proportions; project lighting and materials applied.
+
+## Furniture Kit — Kenney
+
+- Source: [Kenney Furniture Kit](https://kenney.nl/assets/furniture-kit).
+- Licence: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+- Changes: scaled to the game's furniture proportions; project lighting and materials applied.
+
+## Character, animation, furniture and environment packs — Quaternius
+
+The following imported packs use [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), as recorded in their included licence files:
+
+- [Ultimate Modular Men](https://quaternius.com/packs/ultimatemodularcharacters.html): character parts assembled and recoloured; shading smoothed; project facial geometry, expression shapes and animation adjustments added.
+- [Ultimate Modular Women](https://quaternius.com/packs/ultimatemodularwomen.html): character parts assembled and recoloured; shading smoothed; project facial geometry, expression shapes and animation adjustments added.
+- [Ultimate House Interior](https://quaternius.com/packs/ultimatehomeinterior.html): selected furniture scaled, oriented and given project materials.
+- [Stylized Nature MegaKit](https://quaternius.com/packs/stylizednaturemegakit.html), Standard subset: selected plants and rocks; project tints, leaf cut-outs, foliage wind and contact bending applied.
+- [Fantasy Props MegaKit](https://quaternius.itch.io/fantasy-props-megakit), Standard subset: selected market and storage props; project materials and placement applied, including support for the supplied vertex colours.
+- [Downtown City MegaKit](https://quaternius.com/packs/downtowncitymegakit.html), Standard subset: selected door frames and building textures; texture copies converted to greyscale for tintable wall finishes; project materials applied.
+- [Ultimate Food Pack](https://quaternius.com/packs/ultimatefood.html): apple model rescaled for the game and rendered with project materials.
+- [Universal Animation Library](https://quaternius.com/packs/universalanimationlibrary.html), Standard subset: imported for Humanoid retargeting and game animation use.
+- [Universal Animation Library 2](https://quaternius.itch.io/universal-animation-library-2), Standard subset: imported for Humanoid retargeting and game animation use.
+- [Universal Base Characters](https://quaternius.com/packs/universalbasecharacters.html), Standard subset: character evaluation assets; Humanoid retargeting, uniform height scaling and experimental surface treatments in comparisons. A permanent character switch has not been made.
+- [Modular Character Outfits — Fantasy](https://quaternius.itch.io/modular-character-outfits-fantasy), Standard subset: outfit evaluation assets; retargeted and recoloured in comparisons, with covered body faces removed from temporary mesh copies.
+
+## Character animations and reference avatar — Adobe Mixamo
+
+- Source: [Mixamo](https://www.mixamo.com/).
+- Usage information: [Adobe's Mixamo FAQ](https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html). These assets are supplied under Adobe's terms, not CC0 or CC BY.
+- Includes the Y Bot reference avatar and standing, sitting, walking, salsa, pickup, put-down and backflip animations.
+- Changes: files renamed for the project, Humanoid retargeting configured, and poses/animation adjustments layered on top. Some clips loop or are sampled for character previews.
+
+The licences and terms above apply to the respective credited third-party assets. They do not license the entire game, its original code or other content, and do not imply endorsement by the creators. Project adaptations are described alongside each entry.
